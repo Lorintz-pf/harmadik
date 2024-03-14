@@ -2,7 +2,7 @@
 
 [Logo](#)
 
-*   [Főoldal]([#](https://lorintz-pf.github.io/harmadik/igazitas))
+*   [Főoldal](https://lorintz-pf.github.io/harmadik/igazitas)
 *   [Kapcsolat](#)
 
 Üdvözlünk a Bootstrap Világában!
